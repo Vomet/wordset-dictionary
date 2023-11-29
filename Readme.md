@@ -1,3 +1,7 @@
+# Changes from Main Branch
+Hi, this is a fork of the [original wordset-dictionary](https://github.com/wordset/wordset-dictionary). I've only added a couple of minor changes such as:
+- Making a file that contains all the words (see `all_words.json`)
+
 Wordset Dictionary
 ==================
 
