@@ -1,6 +1,8 @@
 # Changes from Main Branch
-Hi, this is a fork of the [original wordset-dictionary](https://github.com/wordset/wordset-dictionary). I've only added a couple of minor changes such as:
+Hi, this is a fork of the [original Wordset Dictionary](https://github.com/wordset/wordset-dictionary). I've only added a couple of minor changes such as:
 - Making a file that contains all the words (see `all_words.json`)
+
+Wordset Dictionary is based off of Princeton's Wordnet project. As such, there are no "closed-class words" such as determiners, prepositions, pronouns, conjunctions, and particles (i.e. "you", "it", etc.). You can view their frequently asked questions [here](https://wordnet.princeton.edu/frequently-asked-questions).
 
 Wordset Dictionary
 ==================
